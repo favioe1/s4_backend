@@ -6,7 +6,7 @@
 
 require('dotenv').config();
 var app = require('../app');
-var debug = require('debug')('s2-backend:server');
+var debug = require('debug')('s4-backend:server');
 var http = require('http');
 
 /**
